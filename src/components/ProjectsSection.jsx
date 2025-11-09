@@ -35,7 +35,7 @@ export const ProjectsSection = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             {projects.map((project,key)=>(
                <div key={key} className="group bg-card rounded-lg overflow-hidden shadow-xs card-hover">
-                   <div className="h-50 overflow-hidden lg:grids-cols-3  transition-transform">
+                   <div className="h-50 overflow-hidden transition-transform">
                     <img
                     src={project.image}
                     alt={project.title}
