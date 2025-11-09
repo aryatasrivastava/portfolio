@@ -12,15 +12,15 @@ export const AboutMe = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
           <div className="space-y-6">
             <h3 className="text-2xl font-semibold">
-              Passionate Web Developer & Tech Creator
+              A curious learner exploring the world of full stack development
             </h3>
 
             <p className="text-muted-foreground">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium assumenda tenetur harum veritatis atque quidem, minima quam molestias doloribus omnis recusandae. Rem cum veniam, itaque delectus modi veritatis quaerat quod.
+              Hi, I am Aryata Srivastava, a passionate developer currently learning mordern web technologies. I love building creative, responsive, and efficient web projects while exploring both front-end and back-end development.
             </p>
 
             <p className="text-muted-foreground">
-             Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum obcaecati mollitia asperiores deserunt maiores, ipsa sapiente dolore facilis tempora odio! Porro ullam numquam pariatur! Laboriosam doloribus deleniti cum autem nemo?
+            I enjoy experimenting with new ideas , improving my code, and learning something new everyday to become a well-rounded full-stack developer.
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 pt-4 justify-center">

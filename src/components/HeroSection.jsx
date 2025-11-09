@@ -10,7 +10,9 @@ export const HeroSection = () => {
                     <span className="text-gradient ml-2 opacity-0 animate-fade-in-delay-2"> Srivastava</span>
                 </h1>
                 <p className="text-lg md-text-xl animate-fade-in-delay-3 ">
-                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sed rem nostrum reprehenderit quos minima laudantium porro ducimus esse repellendus! Fugiat repudiandae consequuntur, dolorem impedit distinctio quaerat nihil soluta sit commodi!
+                  A passionate learner exploring design, development and everything that brings web to life.
+                  Exploring the <span className="text-primary font-bold">full-stack</span> jounery from UI design to backend logic, driven by curiosity and creativity.
+                  Growing everyday in the world of web development
                 </p>
                 <div className="opacity-0 animate-fade-in-delay-4">
                     <a href="#projects" className="cosmic-button">
@@ -18,10 +20,6 @@ export const HeroSection = () => {
                     </a>
                 </div>
             </div>
-        </div>
-        <div className="absolute bottom-8 left-1/2 transform -translate-x-1/2 flex flex-col items-center animate-bounce">
-            <span className="text-2xl">Scroll</span>
-            <ArrowDown className="h-5 w-5 text-primary" />
         </div>
     </section>
 }
